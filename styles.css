@@ -125,6 +125,14 @@ h3 { margin: 0 0 10px; font-size: 19px; letter-spacing: -0.01em; font-weight: 65
 .lede { margin: 0; max-width: 60ch; font-size: 19px; }
 .section-lede { margin: 0 0 44px; color: var(--ink-soft); max-width: 62ch; }
 
+.founder {
+  margin: 26px 0 18px;
+  padding-top: 18px;
+  border-top: 1px solid var(--line);
+  font-size: 15px;
+}
+.founder strong { color: var(--ink); font-weight: 650; }
+
 .link-arrow {
   display: inline-block;
   margin-top: 8px;
